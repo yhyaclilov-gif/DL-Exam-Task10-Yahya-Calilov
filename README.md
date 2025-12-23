@@ -1,7 +1,7 @@
 # Task 10: Traffic Sign Recognition (GTSRB)
 
 **Student:** Yahya Calilov 
-**ID:** 20240210 
+**ID:** S210
 **Task:** 10 – SignLang (Traffic Signs)
 
 ## Presentation
